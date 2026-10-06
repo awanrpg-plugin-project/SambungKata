@@ -1,0 +1,47 @@
+name: sambungKata
+version: '${version}'
+
+main: yt.corazonid.sambungKata.SambungKata
+api-version: '1.21.11'
+load: POSTWORLD
+description: Plugin Minigame Sambung Kata - Minecraft Words Chain Game
+
+commands:
+  regis:
+    description: Registrasi player online ke game
+    usage: /regis <nama_player>
+  unregis:
+    description: Hapus registrasi player
+    usage: /unregis <player>
+  listplayer:
+    description: Tampilkan daftar player terdaftar dan cek jumlah kursi
+    usage: /listplayer
+  listscore:
+    description: Tampilkan skor sementara ke semua player
+    usage: /listscore
+  mode:
+    description: Pilih mode permainan (single/multi)
+    usage: /mode <single|multi>
+  start:
+    description: Mulai permainan
+    usage: /start
+  nextround:
+    description: Mulai ronde berikutnya dengan gacha ulang
+    usage: /nextround
+  endgame:
+    description: Akhiri permainan dan tampilkan skor final
+    usage: /endgame
+  resetgame:
+    description: Reset skor dan bunuh semua player aktif
+    usage: /resetgame
+  skip:
+    description: Skip giliran player yang sedang menjawab (salah, -1 darah)
+    usage: /skip
+  commandinfo:
+    description: Daftar command moderator dan penjelasan singkat
+    usage: /commandinfo
+
+permissions:
+  sambungkata.moderator:
+    description: Akses semua command moderator
+    default: op
