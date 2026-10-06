@@ -1,0 +1,1278 @@
+# Daftar kata Minecraft untuk Sambung Kata
+# single: hanya satu kata
+# multi: lebih dari satu kata
+# Tambahkan/edit kata sesuka hati, lalu reload plugin
+
+single:
+  - Absorption
+  - Acacia
+  - Addon
+  - Alex
+  - Allay
+  - Allium
+  - Allow
+  - Alpha
+  - Amethyst
+  - Andesite
+  - Anvil
+  - Apple
+  - Apprentice
+  - Aqua
+  - Ari
+  - Armadillo
+  - Armor
+  - Armorer
+  - Arrow
+  - Attribute
+  - Awkward
+  - Axe
+  - Axolotl
+  - Azalea
+  - Badlands
+  - Bamboo
+  - Ban
+  - Banner
+  - Barrel
+  - Barrier
+  - Basalt
+  - Bastion
+  - Bat
+  - Beach
+  - Beacon
+  - Bed
+  - Bedrock
+  - Bee
+  - Beehive
+  - Beetroot
+  - Bell
+  - Beta
+  - Biome
+  - Birch
+  - Black
+  - Blackstone
+  - Blaze
+  - Blindness
+  - Block
+  - Blue
+  - Boat
+  - Bogged
+  - Bone
+  - Book
+  - Bookshelf
+  - Boots
+  - Border
+  - Boss
+  - Bottle
+  - Bow
+  - Bowl
+  - Breach
+  - Bread
+  - Breeze
+  - Brewing
+  - Brick
+  - Brown
+  - Brush
+  - Brute
+  - Bubble
+  - Bucket
+  - Building
+  - Bundle
+  - Bush
+  - Butcher
+  - Button
+  - Cactus
+  - Cake
+  - Calcite
+  - Camel
+  - Campfire
+  - Candle
+  - Carpet
+  - Carrot
+  - Cartographer
+  - Cartography
+  - Cat
+  - Cauldron
+  - Cave
+  - Chain
+  - Chainmail
+  - Channeling
+  - Charcoal
+  - Cheat
+  - Cherry
+  - Chest
+  - Chestplate
+  - Chicken
+  - Chirp
+  - Chiseled
+  - Chorus
+  - Cinnabar
+  - Classic
+  - Clay
+  - Clear
+  - Cleaving
+  - Cleric
+  - Clock
+  - Coal
+  - Cobblestone
+  - Cobweb
+  - Cocoa
+  - Cod
+  - Combat
+  - Command
+  - Comparator
+  - Compass
+  - Composter
+  - Concrete
+  - Conduit
+  - Cooked
+  - Cookie
+  - Copper
+  - Coral
+  - Core
+  - Cornflower
+  - Cow
+  - Cracked
+  - Crafter
+  - Crafting
+  - Creaking
+  - Creator
+  - Creeper
+  - Crimson
+  - Crossbow
+  - Crystal
+  - Cyan
+  - Damage
+  - Dandelion
+  - Darkness
+  - Datapack
+  - Daylight
+  - Dead
+  - Debris
+  - Deepslate
+  - Density
+  - Deny
+  - Deop
+  - Desert
+  - Diamond
+  - Difficulty
+  - Dinnerbone
+  - Diorite
+  - Dirt
+  - Disc
+  - Dispenser
+  - Dolphin
+  - Donkey
+  - Door
+  - Dragon
+  - Dried
+  - Dripleaf
+  - Dripstone
+  - Dropper
+  - Drowned
+  - Dungeons
+  - Dye
+  - Earth
+  - Education
+  - Efe
+  - Effect
+  - Efficiency
+  - Egg
+  - Elytra
+  - Emerald
+  - Enchant
+  - Enchanting
+  - Enchantment
+  - End
+  - Ender
+  - Enderman
+  - Endermite
+  - Entity
+  - Evoker
+  - Execute
+  - Exp
+  - Experience
+  - Expert
+  - Explorer
+  - Eye
+  - Eyeblossom
+  - Far
+  - Farland
+  - Farmer
+  - Farmland
+  - Feather
+  - Fence
+  - Fern
+  - Fill
+  - Fire
+  - Firefly
+  - Firework
+  - Fish
+  - Fisherman
+  - Fishing
+  - Flame
+  - Fletcher
+  - Fletching
+  - Flint
+  - Flower
+  - Food
+  - Forest
+  - Fortress
+  - Fortune
+  - Fossil
+  - Fox
+  - Fragment
+  - Frog
+  - Froglight
+  - Frogspawn
+  - Fuel
+  - Fungus
+  - Furnace
+  - Gamemode
+  - Gamerule
+  - Gate
+  - Gear
+  - Geode
+  - Ghast
+  - Giant
+  - Give
+  - Glass
+  - Glazed
+  - Glistering
+  - Glow
+  - Glowing
+  - Glowstone
+  - Goat
+  - Gold
+  - Golem
+  - Granite
+  - Grass
+  - Gravel
+  - Gray
+  - Green
+  - Grindstone
+  - Grove
+  - Grumm
+  - Guardian
+  - Gunpowder
+  - Harness
+  - Haste
+  - Hay
+  - Head
+  - Health
+  - Heart
+  - Helmet
+  - Hoe
+  - Hoglin
+  - Honey
+  - Honeycomb
+  - Hopper
+  - Horn
+  - Horse
+  - Hostile
+  - Hunger
+  - Husk
+  - Hyphae
+  - Ice
+  - Igloo
+  - Illusioner
+  - Impaling
+  - Indev
+  - Infdev
+  - Infested
+  - Infinity
+  - Ingot
+  - Ink
+  - Invisibility
+  - Iron
+  - Item
+  - Java
+  - Jeb
+  - Jigsaw
+  - Johnny
+  - Journeyman
+  - Jukebox
+  - Jungle
+  - Kai
+  - Kelp
+  - Kick
+  - Kill
+  - Knockback
+  - Knowledge
+  - Ladder
+  - Lantern
+  - Lapis
+  - Lava
+  - Lead
+  - Leather
+  - Leatherworker
+  - Leaves
+  - Lectern
+  - Legends
+  - Leggings
+  - Lever
+  - Levitation
+  - Librarian
+  - Light
+  - Lilac
+  - Lime
+  - List
+  - Llama
+  - Locate
+  - Lodestone
+  - Log
+  - Loom
+  - Loot
+  - Looting
+  - Loyalty
+  - Luck
+  - Lunge
+  - Lure
+  - Lush
+  - Mace
+  - Magenta
+  - Magma
+  - Makena
+  - Mall
+  - Mangrove
+  - Mansion
+  - Map
+  - Marketplace
+  - Mason
+  - Master
+  - Meadow
+  - Mellohi
+  - Melon
+  - Membrane
+  - Mending
+  - Milk
+  - Minecart
+  - Minecraft
+  - Mineshaft
+  - Mining
+  - Mobs
+  - Mode
+  - Mods
+  - Monster
+  - Monument
+  - Mooshroom
+  - Moss
+  - Msg
+  - Mud
+  - Mule
+  - Multishot
+  - Mundane
+  - Mushroom
+  - Mutton
+  - Mycelium
+  - Name
+  - Nausea
+  - Nautilus
+  - Nether
+  - Netherite
+  - Netherrack
+  - Neutral
+  - Nitwit
+  - Noor
+  - Notch
+  - Novice
+  - Nugget
+  - Nylium
+  - Oak
+  - Observer
+  - Obsidian
+  - Ocean
+  - Ocelot
+  - Ominous
+  - Oozing
+  - Op
+  - Orange
+  - Ore
+  - Otherside
+  - Outpost
+  - Overworld
+  - Oxidized
+  - Painting
+  - Pale
+  - Panda
+  - Pane
+  - Pants
+  - Paper
+  - Parched
+  - Parrot
+  - Particle
+  - Passive
+  - Path
+  - Pattern
+  - Pearl
+  - Peony
+  - Phantom
+  - Pickaxe
+  - Pickle
+  - Pie
+  - Piercing
+  - Pig
+  - Piglin
+  - Pigstep
+  - Pillager
+  - Pink
+  - Piston
+  - Pitcher
+  - Place
+  - Plains
+  - Planks
+  - Player
+  - Playsound
+  - Pocket
+  - Podzol
+  - Poison
+  - Poppy
+  - Porkchop
+  - Portal
+  - Pot
+  - Potato
+  - Potent
+  - Potion
+  - Pottery
+  - Powder
+  - Power
+  - Powered
+  - Pre-classic
+  - Precipice
+  - Pressure
+  - Prismarine
+  - Projectile
+  - Propagule
+  - Protection
+  - Pufferfish
+  - Pumpkin
+  - Punch
+  - Purple
+  - Purpur
+  - Pyramid
+  - Quartz
+  - Rabbit
+  - Raft
+  - Raid
+  - Rail
+  - Ravager
+  - Raw
+  - Recipe
+  - Recovery
+  - Red
+  - Redstone
+  - Regeneration
+  - Reinforced
+  - Release
+  - Relic
+  - Repeater
+  - Resin
+  - Resistance
+  - Resource
+  - Respawn
+  - Respiration
+  - Riptide
+  - River
+  - Rod
+  - Rooted
+  - Rose
+  - Rotten
+  - Ruins
+  - Saddle
+  - Salmon
+  - Sand
+  - Sandstone
+  - Sapling
+  - Saturation
+  - Savanna
+  - Scaffolding
+  - Sculk
+  - Scute
+  - Sea
+  - Seagrass
+  - Seed
+  - Sensor
+  - Setblock
+  - Setworldspawn
+  - Shard
+  - Sharpness
+  - Shears
+  - Sheep
+  - Shelf
+  - Shell
+  - Shepherd
+  - Sherd
+  - Shield
+  - Shipwreck
+  - Shovel
+  - Shrieker
+  - Shroomlight
+  - Shulker
+  - Sign
+  - Silverfish
+  - Skeleton
+  - Skull
+  - Slab
+  - Slime
+  - Slimeball
+  - Slowness
+  - Smelting
+  - Smite
+  - Smithing
+  - Smoker
+  - Snapshot
+  - Sneak
+  - Sniffer
+  - Snow
+  - Snowball
+  - Snowgolem
+  - Soul
+  - Soup
+  - Spawn
+  - Spawner
+  - Spawnpoint
+  - Spear
+  - Spectate
+  - Spectral
+  - Speed
+  - Spider
+  - Splash
+  - Sponge
+  - Spruce
+  - Spyglass
+  - Squid
+  - Stained
+  - Stairs
+  - Stal
+  - Stalactite
+  - Stalagmite
+  - Steak
+  - Stem
+  - Steve
+  - Stew
+  - Stick
+  - Stone
+  - Stonecutter
+  - Strad
+  - Stray
+  - Strength
+  - Strider
+  - String
+  - Stripped
+  - Stronghold
+  - Structure
+  - Sugar
+  - Sulfur
+  - Sunflower
+  - Sunny
+  - Suspicious
+  - Swamp
+  - Sword
+  - Tadpole
+  - Taiga
+  - Target
+  - Teleport
+  - Terracotta
+  - Test
+  - Thick
+  - Thorns
+  - Tick
+  - Time
+  - Tinted
+  - Tnt
+  - Toast
+  - Tool
+  - Toolsmith
+  - Torch
+  - Torchflower
+  - Totem
+  - Tp
+  - Trader
+  - Trading
+  - Trapdoor
+  - Treasure
+  - Trial
+  - Trident
+  - Trim
+  - Tripwire
+  - Tropical
+  - Tube
+  - Tuff
+  - Tulip
+  - Tunic
+  - Turtle
+  - Unbreaking
+  - Update
+  - Vault
+  - Vein
+  - Vex
+  - Village
+  - Villager
+  - Vindicator
+  - Vines
+  - Void
+  - Wait
+  - Wall
+  - Ward
+  - Warden
+  - Warped
+  - Wart
+  - Wastes
+  - Water
+  - Waxed
+  - Weakness
+  - Weaponsmith
+  - Weather
+  - Weathered
+  - Weaving
+  - Wet
+  - Wheat
+  - White
+  - Whitelist
+  - Wildflowers
+  - Windswept
+  - Witch
+  - Wither
+  - Wolf
+  - Wood
+  - Wooden
+  - Woodland
+  - Wool
+  - Worldborder
+  - Yellow
+  - Zoglin
+  - Zombie
+  - Zombified
+  - Zuri
+
+multi:
+  - "Absorption"
+  - "Acacia Boat"
+  - "Acacia Boat with Chest"
+  - "Acacia Button"
+  - "Acacia Door"
+  - "Acacia Fence"
+  - "Acacia Fence Gate"
+  - "Acacia Hanging Sign"
+  - "Acacia Leaves"
+  - "Acacia Log"
+  - "Acacia Planks"
+  - "Acacia Pressure Plate"
+  - "Acacia Sapling"
+  - "Acacia Shelf"
+  - "Acacia Sign"
+  - "Acacia Slab"
+  - "Acacia Stairs"
+  - "Acacia Trapdoor"
+  - "Acacia Wood"
+  - "Activator Rail"
+  - "Addon"
+  - "Alex"
+  - "Allay"
+  - "Allium"
+  - "Allow"
+  - "Alpha"
+  - "Amethyst Cluster"
+  - "Amethyst Geode"
+  - "Amethyst Shard"
+  - "Ancient City"
+  - "Ancient Debris"
+  - "Andesite"
+  - "Andesite Slab"
+  - "Andesite Stairs"
+  - "Andesite Wall"
+  - "Angler Pottery Sherd"
+  - "Anvil"
+  - "Apple"
+  - "Apprentice"
+  - "Aqua Affinity"
+  - "Archer Pottery Sherd"
+  - "Ari"
+  - "Armadillo"
+  - "Armadillo Scute"
+  - "Armor"
+  - "Armor Stand"
+  - "Armored Paws"
+  - "Armorer"
+  - "Arms Up Pottery Sherd"
+  - "Arrow"
+  - "Attribute"
+  - "Awkward"
+  - "Axe"
+  - "Axolotl"
+  - "Azalea"
+  - "Azalea Leaves"
+  - "Azure Bluet"
+  - "Bad Luck"
+  - "Bad Omen"
+  - "Badlands"
+  - "Baked Potato"
+  - "Bamboo"
+  - "Bamboo Button"
+  - "Bamboo Door"
+  - "Bamboo Fence"
+  - "Bamboo Fence Gate"
+  - "Bamboo Hanging Sign"
+  - "Bamboo Jungle"
+  - "Bamboo Mosaic"
+  - "Bamboo Mosaic Slab"
+  - "Bamboo Mosaic Stairs"
+  - "Bamboo Planks"
+  - "Bamboo Pressure Plate"
+  - "Bamboo Raft"
+  - "Bamboo Raft with Chest"
+  - "Bamboo Shelf"
+  - "Bamboo Shoot"
+  - "Bamboo Sign"
+  - "Bamboo Slab"
+  - "Bamboo Stairs"
+  - "Bamboo Trapdoor"
+  - "Ban"
+  - "Bane of Arthropods"
+  - "Barrel"
+  - "Barrier"
+  - "Basalt"
+  - "Basalt Deltas"
+  - "Bastion Remnant"
+  - "Bat"
+  - "Beach"
+  - "Beacon"
+  - "Bedrock"
+  - "Bee"
+  - "Bee Nest"
+  - "Beehive"
+  - "Beetroot"
+  - "Beetroot Seeds"
+  - "Beetroot Soup"
+  - "Bell"
+  - "Beta"
+  - "Big Dripleaf"
+  - "Biome"
+  - "Birch Boat"
+  - "Birch Boat with Chest"
+  - "Birch Button"
+  - "Birch Door"
+  - "Birch Fence"
+  - "Birch Fence Gate"
+  - "Birch Forest"
+  - "Birch Hanging Sign"
+  - "Birch Leaves"
+  - "Birch Log"
+  - "Birch Planks"
+  - "Birch Pressure Plate"
+  - "Birch Sapling"
+  - "Birch Shelf"
+  - "Birch Sign"
+  - "Birch Slab"
+  - "Birch Stairs"
+  - "Birch Trapdoor"
+  - "Birch Wood"
+  - "Black Banner"
+  - "Black Bed"
+  - "Black Bundle"
+  - "Black Candle"
+  - "Black Carpet"
+  - "Black Concrete"
+  - "Black Concrete Powder"
+  - "Black Dye"
+  - "Black Glazed Terracotta"
+  - "Black Harness"
+  - "Black Shulker Box"
+  - "Black Stained Glass"
+  - "Black Stained Glass Pane"
+  - "Black Terracotta"
+  - "Black Wool"
+  - "Blackstone"
+  - "Blackstone Slab"
+  - "Blackstone Stairs"
+  - "Blackstone Wall"
+  - "Blade Pottery Sherd"
+  - "Blast Furnace"
+  - "Blast Protection"
+  - "Blaze"
+  - "Blaze Powder"
+  - "Blaze Rod"
+  - "Blindness"
+  - "Block"
+  - "Block of Amethyst"
+  - "Block of Bamboo"
+  - "Block of Coal"
+  - "Block of Copper"
+  - "Block of Diamond"
+  - "Block of Emerald"
+  - "Block of Gold"
+  - "Block of Iron"
+  - "Block of Lapis Lazuli"
+  - "Block of Netherite"
+  - "Block of Quartz"
+  - "Block of Raw Copper"
+  - "Block of Raw Gold"
+  - "Block of Raw Iron"
+  - "Block of Redstone"
+  - "Block of Resin"
+  - "Block of Stripped Bamboo"
+  - "blocks"
+  - "Blue Banner"
+  - "Blue Bed"
+  - "Blue Bundle"
+  - "Blue Candle"
+  - "Blue Carpet"
+  - "Blue Concrete"
+  - "Blue Concrete Powder"
+  - "Blue Dye"
+  - "Blue Egg"
+  - "Blue Glazed Terracotta"
+  - "Blue Harness"
+  - "Blue Ice"
+  - "Blue Orchid"
+  - "Blue Shulker Box"
+  - "Blue Stained Glass"
+  - "Blue Stained Glass Pane"
+  - "Blue Terracotta"
+  - "Blue Wool"
+  - "Bogged"
+  - "Bolt Armor Trim"
+  - "Bone"
+  - "Bone Block"
+  - "Bone Meal"
+  - "Bonus Chest"
+  - "Book"
+  - "Book and Quill"
+  - "Bookshelf"
+  - "Boots"
+  - "Border"
+  - "Bordure Indented Banner Pattern"
+  - "Boss"
+  - "Bottle o' Enchanting"
+  - "Bow"
+  - "Bowl"
+  - "Brain Coral"
+  - "Brain Coral Block"
+  - "Brain Coral Fan"
+  - "Breach"
+  - "Bread"
+  - "Breath of the Nautilus"
+  - "Breeze"
+  - "Breeze Rod"
+  - "Brewer Pottery Sherd"
+  - "Brewing"
+  - "Brewing Stand"
+  - "Brick"
+  - "Brick Slab"
+  - "Brick Stairs"
+  - "Brick Wall"
+  - "Bricks"
+  - "Brown Banner"
+  - "Brown Bed"
+  - "Brown Bundle"
+  - "Brown Candle"
+  - "Brown Carpet"
+  - "Brown Concrete"
+  - "Brown Concrete Powder"
+  - "Brown Dye"
+  - "Brown Egg"
+  - "Brown Glazed Terracotta"
+  - "Brown Harness"
+  - "Brown Mushroom"
+  - "Brown Mushroom Block"
+  - "Brown Shulker Box"
+  - "Brown Stained Glass"
+  - "Brown Stained Glass Pane"
+  - "Brown Terracotta"
+  - "Brown Wool"
+  - "Brush"
+  - "Bubble Column"
+  - "Bubble Coral"
+  - "Bubble Coral Block"
+  - "Bubble Coral Fan"
+  - "Bucket"
+  - "Bucket of Axolotl"
+  - "Bucket of Cod"
+  - "Bucket of Pufferfish"
+  - "Bucket of Salmon"
+  - "Bucket of Tadpole"
+  - "Bucket of Tropical Fish"
+  - "Budding Amethyst"
+  - "Building"
+  - "Bundle"
+  - "Bundles of Bravery"
+  - "Buried Treasure"
+  - "Burn Pottery Sherd"
+  - "Bush"
+  - "Butcher"
+  - "Cactus"
+  - "Cactus Flower"
+  - "Cake"
+  - "Calcite"
+  - "Calibrated Sculk Sensor"
+  - "Camel"
+  - "Camel Husk"
+  - "Campfire"
+  - "Candle"
+  - "Carrot"
+  - "Carrot on a Stick"
+  - "Carrots"
+  - "Cartographer"
+  - "Cartography Table"
+  - "Carved Pumpkin"
+  - "Cat"
+  - "Cauldron"
+  - "Cave"
+  - "Cave Spider"
+  - "Cave Vines"
+  - "Caves and Cliffs"
+  - "Chain Command Block"
+  - "Chainmail Boots"
+  - "Chainmail Chestplate"
+  - "Chainmail Helmet"
+  - "Chainmail Leggings"
+  - "Channeling"
+  - "Chaos Cubed"
+  - "Charcoal"
+  - "Chase the Skies"
+  - "Cheat"
+  - "Cherry Boat"
+  - "Cherry Boat with Chest"
+  - "Cherry Button"
+  - "Cherry Door"
+  - "Cherry Fence"
+  - "Cherry Fence Gate"
+  - "Cherry Grove"
+  - "Cherry Hanging Sign"
+  - "Cherry Leaves"
+  - "Cherry Log"
+  - "Cherry Planks"
+  - "Cherry Pressure Plate"
+  - "Cherry Sapling"
+  - "Cherry Shelf"
+  - "Cherry Sign"
+  - "Cherry Slab"
+  - "Cherry Stairs"
+  - "Cherry Trapdoor"
+  - "Cherry Wood"
+  - "Chest"
+  - "Chestplate"
+  - "Chicken"
+  - "Chipped Anvil"
+  - "chirp"
+  - "Chiseled Bookshelf"
+  - "Chiseled Cinnabar Block"
+  - "Chiseled Copper"
+  - "Chiseled Deepslate"
+  - "Chiseled Nether Bricks"
+  - "Chiseled Polished Blackstone"
+  - "Chiseled Quartz Block"
+  - "Chiseled Red Sandstone"
+  - "Chiseled Resin Bricks"
+  - "Chiseled Sandstone"
+  - "Chiseled Stone Bricks"
+  - "Chiseled Sulfur"
+  - "Chiseled Tuff"
+  - "Chiseled Tuff Bricks"
+  - "Chorus Flower"
+  - "Chorus Fruit"
+  - "Chorus Plant"
+  - "Cinnabar"
+  - "Cinnabar Brick Slab"
+  - "Cinnabar Brick Stairs"
+  - "Cinnabar Brick Wall"
+  - "Cinnabar Bricks"
+  - "Cinnabar Slab"
+  - "Cinnabar Stairs"
+  - "Cinnabar Wall"
+  - "Classic"
+  - "Clay"
+  - "Clay Ball"
+  - "Clear"
+  - "Cleaving"
+  - "Cleric"
+  - "Clock"
+  - "Coal"
+  - "Coal Ore"
+  - "Coarse Dirt"
+  - "Coast Armor Trim"
+  - "Cobbled Deepslate"
+  - "Cobbled Deepslate Slab"
+  - "Cobbled Deepslate Stairs"
+  - "Cobbled Deepslate Wall"
+  - "Cobblestone"
+  - "Cobblestone Slab"
+  - "Cobblestone Stairs"
+  - "Cobblestone Wall"
+  - "Cobweb"
+  - "Cocoa"
+  - "Cocoa Beans"
+  - "Cod"
+  - "Cold Ocean"
+  - "Combat"
+  - "Command"
+  - "Command Block"
+  - "Compass"
+  - "Composter"
+  - "Conduit"
+  - "Conduit Power"
+  - "Cooked Chicken"
+  - "Cooked Cod"
+  - "Cooked Mutton"
+  - "Cooked Porkchop"
+  - "Cooked Rabbit"
+  - "Cooked Salmon"
+  - "Cookie"
+  - "Copper Axe"
+  - "Copper Bars"
+  - "Copper Boots"
+  - "Copper Bulb"
+  - "Copper Chain"
+  - "Copper Chest"
+  - "Copper Chestplate"
+  - "Copper Door"
+  - "Copper Golem"
+  - "Copper Golem Statue"
+  - "Copper Grate"
+  - "Copper Helmet"
+  - "Copper Hoe"
+  - "Copper Horse Armor"
+  - "Copper Ingot"
+  - "Copper Lantern"
+  - "Copper Leggings"
+  - "Copper Nautilus Armor"
+  - "Copper Nugget"
+  - "Copper Ore"
+  - "Copper Pickaxe"
+  - "Copper Shovel"
+  - "Copper Spear"
+  - "Copper Sword"
+  - "Copper Torch"
+  - "Copper Trapdoor"
+  - "Cornflower"
+  - "Cow"
+  - "Cracked Deepslate Bricks"
+  - "Cracked Deepslate Tiles"
+  - "Cracked Nether Bricks"
+  - "Cracked Polished Blackstone Bricks"
+  - "Cracked Stone Bricks"
+  - "Crafter"
+  - "Crafting"
+  - "Crafting Table"
+  - "Creaking"
+  - "Creaking Heart"
+  - "Creator"
+  - "Creeper"
+  - "Creeper Charge Banner Pattern"
+  - "Creeper Head"
+  - "Crimson Button"
+  - "Crimson Door"
+  - "Crimson Fence"
+  - "Crimson Fence Gate"
+  - "Crimson Forest"
+  - "Crimson Fungus"
+  - "Crimson Hanging Sign"
+  - "Crimson Hyphae"
+  - "Crimson Nylium"
+  - "Crimson Planks"
+  - "Crimson Pressure Plate"
+  - "Crimson Roots"
+  - "Crimson Shelf"
+  - "Crimson Sign"
+  - "Crimson Slab"
+  - "Crimson Stairs"
+  - "Crimson Stem"
+  - "Crimson Trapdoor"
+  - "Crossbow"
+  - "Crying Obsidian"
+  - "Curse of Binding"
+  - "Curse of Vanishing"
+  - "Cut Copper"
+  - "Cut Copper Slab"
+  - "Cut Copper Stairs"
+  - "Cut Red Sandstone"
+  - "Cut Red Sandstone Slab"
+  - "Cut Sandstone"
+  - "Cut Sandstone Slab"
+  - "Cyan Banner"
+  - "Cyan Bed"
+  - "Cyan Bundle"
+  - "Cyan Candle"
+  - "Cyan Carpet"
+  - "Cyan Concrete"
+  - "Cyan Concrete Powder"
+  - "Cyan Dye"
+  - "Cyan Glazed Terracotta"
+  - "Cyan Harness"
+  - "Cyan Shulker Box"
+  - "Cyan Stained Glass"
+  - "Cyan Stained Glass Pane"
+  - "Cyan Terracotta"
+  - "Cyan Wool"
+  - "Damage"
+  - "Damaged Anvil"
+  - "Dandelion"
+  - "Danger Pottery Sherd"
+  - "Dark Forest"
+  - "Dark Oak Boat"
+  - "Dark Oak Boat with Chest"
+  - "Dark Oak Button"
+  - "Dark Oak Door"
+  - "Dark Oak Fence"
+  - "Dark Oak Fence Gate"
+  - "Dark Oak Hanging Sign"
+  - "Dark Oak Leaves"
+  - "Dark Oak Log"
+  - "Dark Oak Planks"
+  - "Dark Oak Pressure Plate"
+  - "Dark Oak Sapling"
+  - "Dark Oak Shelf"
+  - "Dark Oak Sign"
+  - "Dark Oak Slab"
+  - "Dark Oak Stairs"
+  - "Dark Oak Trapdoor"
+  - "Dark Oak Wood"
+  - "Dark Prismarine"
+  - "Dark Prismarine Slab"
+  - "Dark Prismarine Stairs"
+  - "Darkness"
+  - "Datapack"
+  - "Daylight Detector"
+  - "Dead Brain Coral"
+  - "Dead Brain Coral Block"
+  - "Dead Brain Coral Fan"
+  - "Dead Bubble Coral"
+  - "Dead Bubble Coral Block"
+  - "Dead Bubble Coral Fan"
+  - "Dead Bush"
+  - "Dead Fire Coral"
+  - "Dead Fire Coral Block"
+  - "Dead Fire Coral Fan"
+  - "Dead Horn Coral"
+  - "Dead Horn Coral Block"
+  - "Dead Horn Coral Fan"
+  - "Dead Tube Coral"
+  - "Dead Tube Coral Block"
+  - "Dead Tube Coral Fan"
+  - "Debug Stick"
+  - "Decorated Pot"
+  - "Deep Cold Ocean"
+  - "Deep Dark"
+  - "Deep Frozen Ocean"
+  - "Deep Lukewarm Ocean"
+  - "Deep Ocean"
+  - "Deepslate"
+  - "Deepslate Brick Slab"
+  - "Deepslate Brick Stairs"
+  - "Deepslate Brick Wall"
+  - "Deepslate Bricks"
+  - "Deepslate Coal Ore"
+  - "Deepslate Copper Ore"
+  - "Deepslate Diamond Ore"
+  - "Deepslate Emerald Ore"
+  - "Deepslate Gold Ore"
+  - "Deepslate Iron Ore"
+  - "Deepslate Lapis Lazuli Ore"
+  - "Deepslate Redstone Ore"
+  - "Deepslate Tile Slab"
+  - "Deepslate Tile Stairs"
+  - "Deepslate Tile Wall"
+  - "Deepslate Tiles"
+  - "Density"
+  - "Deny"
+  - "Deop"
+  - "Depth Strider"
+  - "Desert"
+  - "Desert Pyramid"
+  - "Desert Well"
+  - "Detector Rail"
+  - "Diamond"
+  - "Diamond Axe"
+  - "Diamond Boots"
+  - "Diamond Chestplate"
+  - "Diamond Helmet"
+  - "Diamond Hoe"
+  - "Diamond Horse Armor"
+  - "Diamond Leggings"
+  - "Diamond Nautilus Armor"
+  - "Diamond Ore"
+  - "Diamond Pickaxe"
+  - "Diamond Shovel"
+  - "Diamond Spear"
+  - "Diamond Sword"
+  - "Difficulty"
+  - "Dinnerbone"
+  - "Diorite"
+  - "Diorite Slab"
+  - "Diorite Stairs"
+  - "Diorite Wall"
+  - "Dirt"
+  - "Dirt Path"
+  - "Disc Fragment"
+  - "Dispenser"
+  - "Dolphin"
+  - "Dolphin's Grace"
+  - "Donkey"
+  - "Dragon Egg"
+  - "Dragon Head"
+  - "Dragon's Breath"
+  - "Dried Ghast"
+  - "Dried Kelp"
+  - "Dried Kelp Block"
+  - "Dripstone Block"
+  - "Dripstone Caves"
+  - "Dropper"
+  - "Drowned"
+  - "Dune Armor Trim"
+  - "Dungeons"
+  - "Earth"
+  - "Echo Shard"
+  - "Education"
+  - "Efe"
+  - "Effect"
+  - "Efficiency"
+  - "Egg"
+  - "Elder Guardian"
+  - "Elytra"
+  - "Emerald"
+  - "Emerald Ore"
+  - "Empty Map"
+  - "Enchant"
+  - "Enchanted Book"
+  - "Enchanted Golden Apple"
+  - "Enchanting"
+  - "Enchanting Table"
+  - "Enchantment"
+  - "End City"
+  - "End Crystal"
+  - "End Gateway"
+  - "End Platform"
+  - "End Portal"
+  - "End Portal Frame"
+  - "End Rod"
+  - "End Spike"
+  - "End Stone"
+  - "End Stone Brick Slab"
+  - "End Stone Brick Stairs"
+  - "End Stone Brick Wall"
+  - "End Stone Bricks"
+  - "Ender Chest"
+  - "Ender Dragon"
+  - "Ender Pearl"
+  - "Enderman"
+  - "Endermite"
+  - "Entity"
+  - "Eroded Badlands"
+  - "Evoker"
+  - "Execute"
+  - "Exit Portal"
+  - "Exp"
+  - "Experience"
+  - "Expert"
+  - "Explorer Pottery Sherd"
+  - "Exposed Chiseled Copper"
+  - "Exposed Copper"
+  - "Exposed Copper Bars"
+  - "Exposed Copper Bulb"
+  - "Exposed Copper Chain"
+  - "Exposed Copper Chest"
+  - "Exposed Copper Door"
+  - "Exposed Copper Golem Statue"
+  - "Exposed Copper Grate"
+  - "Exposed Copper Lantern"
+  - "Exposed Copper Trapdoor"
+ 
